@@ -19,7 +19,6 @@ function isValidDate(d) {
   return d instanceof Date && !isNaN(d);
 }
 
-
 app.get("/api/:date", function (req, res) {
   let received = req.params.date
   
