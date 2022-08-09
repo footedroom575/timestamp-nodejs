@@ -1,7 +1,7 @@
 {
-  "name": "fcc-api-projects-boilerplate",
+  "name": "Timestamp-nodejs",
   "version": "0.0.1",
-  "description": "An FCC Backend Challenge",
+  "description": "This is a basic timestamp microservice implemented in Express Framework (Node JS)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/footedroom575/timestamp-nodejs.git"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/footedroom575/timestamp-nodejs#readme",
+  "author": "Ahsan <footedroom575@gmail.com>",
   "keywords": [
     "node",
     "express",
-    "freeCodeCamp"
+    "timestamp"
   ],
   "license": "MIT"
 }
